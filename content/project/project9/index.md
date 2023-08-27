@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Deep Video Summarization
+summary: Deep-Learning based project for the Deep Learning course(CSL7050)
 tags:
-  - Deep Learning
+  - course
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/SusimRoy/Deep-Video-Summarization'
 url_pdf: ''
 url_slides: ''
 url_video: ''
