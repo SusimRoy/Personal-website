@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://susimroy.github.io/sitemap.xml
+Sitemap: http://susimroy.github.io/Personal-website/sitemap.xml
