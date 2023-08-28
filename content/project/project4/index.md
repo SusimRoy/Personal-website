@@ -2,7 +2,7 @@
 title: Referring Moving Object Segmentation
 summary: Research Internship
 tags:
-  - Research_Project
+  - Research Projects
 date: '2022-07-20'
 
 # Optional external URL for project (replaces project detail page).

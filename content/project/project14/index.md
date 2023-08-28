@@ -2,7 +2,7 @@
 title: Autonomous Drone Obstacle Avoidance
 summary: DRDO, InterIIT'21
 tags:
-  - robo
+  - Robotics
 date: '2021-03-30'
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: Deep Q Learning
 summary: Course project for Advanced Aritifical Intelligence(CSL7030)
 tags:
-  - course
+  - Coursework
 date: '2023-04-25'
 
 # Optional external URL for project (replaces project detail page).

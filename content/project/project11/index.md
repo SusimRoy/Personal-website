@@ -2,7 +2,7 @@
 title: Multimodal Art Database
 summary: Course Project for Data Engineering(CSL4030)
 tags:
-  - course
+  - Coursework
 date: '2022-10-30'
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: Federated Learning
 summary: Course project for Dependable AI(CSL4010)
 tags:
-  - course
+  - Coursework
 date: '2023-04-20'
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: Pokemon Dashboard
 summary: Course Project for Data Visualization Course(CSL7050)
 tags:
-  - course
+  - Coursework
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

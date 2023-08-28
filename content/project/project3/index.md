@@ -2,7 +2,8 @@
 title: Real Time Face Mask Detection
 summary: Self-Project
 tags:
-  - Research_Project
+  - Research Projects
+  - CV
 date: '2021-04-20'
 
 # Optional external URL for project (replaces project detail page).

@@ -57,7 +57,7 @@ sections:
         - title: Deep Learning Intern
           company: Indian Institute of Technology, Guwahati
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Guwahati, India
           date_start: '2022-05-01'
           date_end: '2023-01-31'
@@ -70,7 +70,7 @@ sections:
         - title: ABU-Robocon'22
           company: Indian Institute of Technology, Jodhpur
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Jodhpur, India
           date_start: '2021-11-01'
           date_end: '2022-04-30'
@@ -100,15 +100,15 @@ sections:
         - name: All
           tag: '*'
         - name: Machine/Deep Learning
-          tag: Research_Project
+          tag: Research Projects
         - name: Robotics
-          tag: robo
+          tag: Robotics
         - name: Computer Vision
           tag: CV
         - name: Course Project
-          tag: course
+          tag: Coursework
         - name: Web-Development
-          tag: webd
+          tag: WebDev
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -2,7 +2,7 @@
 title: International Micromouse Challenge
 summary: Techfest IIT Bombay, 2021
 tags:
-  - robo
+  - Robotics
 date: '2021-11-30'
 
 # Optional external URL for project (replaces project detail page).

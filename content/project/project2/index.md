@@ -2,7 +2,7 @@
 title: Detecting Adversarial Perturbations While Determining Intentional and Unintentional Noises
 summary: Undergraduate Research Project
 tags:
-  - Research_Project
+  - Research Projects
 date: '2022-08-30'
 
 # Optional external URL for project (replaces project detail page).

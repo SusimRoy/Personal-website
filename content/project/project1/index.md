@@ -2,7 +2,7 @@
 title: Intensity Optimized CT Reconstruction
 summary: Research Internship
 tags:
-  - Research_Project
+  - Research Projects
 date: '2023-08-01'
 
 # Optional external URL for project (replaces project detail page).
