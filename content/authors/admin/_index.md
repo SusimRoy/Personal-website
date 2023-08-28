@@ -22,7 +22,7 @@ organizations:
     url: https://www.iitj.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main goal is to build trustable ai integrated robotic systems.
 
 # Interests to show in About widget
 interests:
