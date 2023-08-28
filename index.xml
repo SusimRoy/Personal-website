@@ -14,6 +14,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Modelling of noise for CT simulations(e.g. Poisson-noise)by considering spatially non-uniform intensity distributions and in limited dosage environments(ULDCT).&lt;/li>
 &lt;li>Create a pattern so that the intensity distribution becomes learnable.&lt;/li>
 &lt;li>Apply an appropriate reconstruction technique which takes care of artifacts or likely noise patterns and generates back the original image which has high metric values when compared with ssim etc.&lt;/li>
+&lt;/ul></description></item><item><title>Visual Motion Analysis from Images and Videos</title><link>https://SusimRoy.github.io/project/project16/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project16/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>The main objective was to work towards developing a software to find the optimal time to spray fungicides to prevent the spread of FHB disease among the common vegetation.&lt;/li>
+&lt;li>Wheat and Canola flower data collection and annotation using SCVAT and storing them as PASCAL-VOC or YOLO format.&lt;/li>
+&lt;li>Improving Yolov8 and Efficient-Det(pytorch version) algorithms to work on the created dataset by tuning hyperparameters in the former case and incorporating an attention module(e.g. CBAM) in the latter case.&lt;/li>
+&lt;li>Deployment of the trained models on the &lt;a href="https://demo.sga.ai/" target="_blank" rel="noopener">demo Website&lt;/a> for usage by farmers and similar people for FHB prevention.&lt;/li>
 &lt;/ul></description></item><item><title>Deep Video Summarization</title><link>https://SusimRoy.github.io/project/project9/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project9/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>Given an input video data, we find the most informative slides and summarize the content in the video in the form of natural language.&lt;/li>
@@ -214,7 +220,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-561493782" class="chart">&lt;/div>
+&lt;div id="chart-147859362" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -223,7 +229,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-561493782', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-147859362', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
