@@ -1,9 +1,17 @@
 ---
 title: Referring Moving Object Segmentation
-summary: Research Internship
+summary: Research Internship, IIT Guwahati
 tags:
   - Research Projects
 date: '2022-07-20'
+authors: 
+- "Dr. Santosh Kumar Vipparthi"
+- Susim Mukul Roy
+- Prafulla Saxena
+author_notes:
+- "Indian Institute of Technology, Ropar"
+- "Indian Institute of Technology, Jodhpur"
+- "Malaviya National Institute of Technology, Jaipur"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

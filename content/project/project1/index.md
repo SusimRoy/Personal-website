@@ -1,6 +1,16 @@
 ---
 title: Intensity Optimized CT Reconstruction
-summary: Research Internship
+authors: 
+- "Dr.Michael Moeller"
+- Susim Mukul Roy
+- Alexander Aurus
+- Hendrik Sommerhoff
+summary: Research Internship, University of Seigen
+author_notes:
+- "University of Seigen"
+- "Indian Institute of Technology, Jodhpur"
+- "University of Seigen"
+- "University of Seigen"
 tags:
   - Research Projects
 date: '2023-08-01'

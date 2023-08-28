@@ -1,10 +1,21 @@
 ---
 title: Detecting Adversarial Perturbations While Determining Intentional and Unintentional Noises
-summary: Undergraduate Research Project
+summary: Undergraduate Research Project, IIT Jodhpur
 tags:
   - Research Projects
 date: '2022-08-30'
-
+authors: 
+- "Dr. Richa Singh"
+- "Dr. Mayank Vatsa"
+- Susim Mukul Roy
+- Anubhooti Jain
+- Kwanit Gupta
+author_notes:
+- "Indian Institute of Technology, Jodhpur"
+- "Indian Institute of Technology, Jodhpur"
+- "Indian Institute of Technology, Jodhpur"
+- "Indian Institute of Technology, Jodhpur"
+- "Indian Institute of Technology, Jodhpur"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
