@@ -1,6 +1,6 @@
 ---
 title: Deep Q Learning
-summary: Course project for Advanced Aritifical Intelligence(CSL7030)
+summary: Course project for Advanced Aritifical Intelligence(CSL7030), IIT Jodhpur
 tags:
   - Coursework
 date: '2023-04-25'

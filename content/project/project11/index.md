@@ -1,6 +1,6 @@
 ---
 title: Multimodal Art Database
-summary: Course Project for Data Engineering(CSL4030)
+summary: Course Project for Data Engineering(CSL4030), IIT Jodhpur
 tags:
   - Coursework
 date: '2022-10-30'

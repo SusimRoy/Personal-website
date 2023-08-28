@@ -1,6 +1,6 @@
 ---
 title: Deep Video Summarization
-summary: Course project for the Deep Learning course(CSL7050)
+summary: Course project for the Deep Learning course(CSL7050), IIT Jodhpur
 tags:
   - Coursework
 date: '2023-05-20'
