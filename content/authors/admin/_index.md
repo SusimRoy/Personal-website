@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a final-year B.Tech student in the Department of Computer Science and Engineering, pursuing a major in Artificial Intelligence and Data Engineering at the [Indian Institute of Technology, Jodhpur](https://www.iitj.ac.in/). I am also an Undergraduate Student Researcher in the [Image Analysis and Biometrics Lab](http://iab-rubric.org/), advised by [Dr. Richa Singh](http://home.iitj.ac.in/~richa/) and [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) on Trustable AI. Additionally, I have worked on various related fields like Moving Object Detection, Image Reconstruction etc. 
+I am a Senior-year B.Tech student in the Department of Computer Science and Engineering, pursuing a major in Artificial Intelligence and Data Engineering at the [Indian Institute of Technology, Jodhpur](https://www.iitj.ac.in/). I am also an Undergraduate Student Researcher in the [Image Analysis and Biometrics Lab](http://iab-rubric.org/), advised by [Dr. Richa Singh](http://home.iitj.ac.in/~richa/) and [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) on Trustable AI. Additionally, I have worked on various related fields like Moving Object Detection, Image Reconstruction etc. 
 {style="text-align: justify;"}
