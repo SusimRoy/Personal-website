@@ -2,7 +2,7 @@
 title: Visual Motion Analysis from Images and Videos
 summary: Course Project for Dependable AI(CSL4050)
 tags:
-  - Course Project
+  - Coursework
 date: '2023-08-01'
 
 # Optional external URL for project (replaces project detail page).
