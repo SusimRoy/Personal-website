@@ -1,5 +1,5 @@
 ---
-title: Visual Motion Analysis from Images and Videos
+title: Robustness-of-Bayesian-Neural-Networks-against-White-Box-Attacks
 summary: Course Project for Dependable AI(CSL4050)
 tags:
   - Coursework
