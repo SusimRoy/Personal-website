@@ -20,6 +20,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Wheat and Canola flower data collection and annotation using SCVAT and storing them as PASCAL-VOC or YOLO format.&lt;/li>
 &lt;li>Improving Yolov8 and Efficient-Det(pytorch version) algorithms to work on the created dataset by tuning hyperparameters in the former case and incorporating an attention module(e.g. CBAM) in the latter case.&lt;/li>
 &lt;li>Deployment of the trained models on the &lt;a href="https://demo.sga.ai/" target="_blank" rel="noopener">demo Website&lt;/a> for usage by farmers and similar people for FHB prevention.&lt;/li>
+&lt;/ul></description></item><item><title>Visual Motion Analysis from Images and Videos</title><link>https://SusimRoy.github.io/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>An experimental work where we tested whether BNN posteriors are more robust to gradient based adversarial attacks when compared to the general learning based neural networks in SOTA architectures.&lt;/li>
+&lt;li>Implemented BNN posterior in Alexnet,LeNet, Resnet34 and a custom made CNN to test the validity of the theoretical result. Each of these 4 models were attacked with FGSM and PGD variants.&lt;/li>
+&lt;li>Implemented two bayesian estimation methods namely the conventional variational inference and one of it&amp;rsquo;s modified version called local reparametrisation trick into the three above models.&lt;/li>
+&lt;li>Results indicate that Resnet34 takes a much longer time to train and has relatively poorer classification accuracy as compared to the other three models. A hypothesis supporting this fact is that Resnet34 has a more complex structure which doesn&amp;rsquo;t model the data distribution properly through the priors at each block.&lt;/li>
 &lt;/ul></description></item><item><title>Deep Video Summarization</title><link>https://SusimRoy.github.io/project/project9/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project9/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>Given an input video data, we find the most informative slides and summarize the content in the video in the form of natural language.&lt;/li>
@@ -220,7 +226,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-312648579" class="chart">&lt;/div>
+&lt;div id="chart-192738456" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -229,7 +235,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-312648579', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-192738456', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
