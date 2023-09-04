@@ -3,18 +3,18 @@
 &lt;li>Modelling of noise for CT simulations(e.g. Poisson-noise)by considering spatially non-uniform intensity distributions and in limited dosage environments(ULDCT).&lt;/li>
 &lt;li>Create a pattern so that the intensity distribution becomes learnable.&lt;/li>
 &lt;li>Apply an appropriate reconstruction technique which takes care of artifacts or likely noise patterns and generates back the original image which has high metric values when compared with ssim etc.&lt;/li>
+&lt;/ul></description></item><item><title>Robustness-of-Bayesian-Neural-Networks-against-White-Box-Attacks</title><link>https://SusimRoy.github.io/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>An experimental work where we tested whether BNN posteriors are more robust to gradient based adversarial attacks when compared to the general learning based neural networks in SOTA architectures.&lt;/li>
+&lt;li>Implemented BNN posterior in Alexnet,LeNet, Resnet34 and a custom made CNN to test the validity of the theoretical result. Each of these 4 models were attacked with FGSM and PGD variants.&lt;/li>
+&lt;li>Implemented two bayesian estimation methods namely the conventional variational inference and one of it&amp;rsquo;s modified version called local reparametrisation trick into the three above models.&lt;/li>
+&lt;li>Results indicate that Resnet34 takes a much longer time to train and has relatively poorer classification accuracy as compared to the other three models. A hypothesis supporting this fact is that Resnet34 has a more complex structure which doesn&amp;rsquo;t model the data distribution properly through the priors at each block.&lt;/li>
 &lt;/ul></description></item><item><title>Visual Motion Analysis from Images and Videos</title><link>https://SusimRoy.github.io/project/project16/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project16/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>The main objective was to work towards developing a software to find the optimal time to spray fungicides to prevent the spread of FHB disease among the common vegetation.&lt;/li>
 &lt;li>Wheat and Canola flower data collection and annotation using SCVAT and storing them as PASCAL-VOC or YOLO format.&lt;/li>
 &lt;li>Improving Yolov8 and Efficient-Det(pytorch version) algorithms to work on the created dataset by tuning hyperparameters in the former case and incorporating an attention module(e.g. CBAM) in the latter case.&lt;/li>
 &lt;li>Deployment of the trained models on the &lt;a href="https://demo.sga.ai/" target="_blank" rel="noopener">demo Website&lt;/a> for usage by farmers and similar people for FHB prevention.&lt;/li>
-&lt;/ul></description></item><item><title>Visual Motion Analysis from Images and Videos</title><link>https://SusimRoy.github.io/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>An experimental work where we tested whether BNN posteriors are more robust to gradient based adversarial attacks when compared to the general learning based neural networks in SOTA architectures.&lt;/li>
-&lt;li>Implemented BNN posterior in Alexnet,LeNet, Resnet34 and a custom made CNN to test the validity of the theoretical result. Each of these 4 models were attacked with FGSM and PGD variants.&lt;/li>
-&lt;li>Implemented two bayesian estimation methods namely the conventional variational inference and one of it&amp;rsquo;s modified version called local reparametrisation trick into the three above models.&lt;/li>
-&lt;li>Results indicate that Resnet34 takes a much longer time to train and has relatively poorer classification accuracy as compared to the other three models. A hypothesis supporting this fact is that Resnet34 has a more complex structure which doesn&amp;rsquo;t model the data distribution properly through the priors at each block.&lt;/li>
 &lt;/ul></description></item><item><title>Deep Video Summarization</title><link>https://SusimRoy.github.io/project/project9/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project9/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>Given an input video data, we find the most informative slides and summarize the content in the video in the form of natural language.&lt;/li>
