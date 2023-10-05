@@ -1,11 +1,11 @@
 ---
 title: Attacking DDPMs through Class Activation Maps
-summary: B.Tech Project
 authors: 
 - Anubhooti Jain
 - Susim Mukul Roy
 - "Dr. Richa Singh"
 - Dr. Mayank Vatsa
+summary: B.Tech Project, IIT Jodhpur
 author_notes:
 - "Indian Institute of Technology, Jodhpur"
 - "Indian Institute of Technology, Jodhpur"
