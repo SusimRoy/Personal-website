@@ -1,5 +1,5 @@
 ---
-title: Robustness-of-Bayesian-Neural-Networks-against-White-Box-Attacks
+title: Robustness of BNNs against White Box Attacks
 summary: Course Project for Dependable AI(CSL4050)
 tags:
   - Coursework
