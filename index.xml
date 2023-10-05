@@ -9,12 +9,18 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Intensity Optimized CT Reconstruction</title><link>https://SusimRoy.github.io/project/project1/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project1/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Attacking DDPMs through Class Activation Maps</title><link>https://SusimRoy.github.io/project/project18/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project18/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>Conducted an extensive literature survey of diffusion models and their advantages and disadvantages.&lt;/li>
+&lt;li>Implemented an architecture which works with different pretrained DDPMs and classifiers.&lt;/li>
+&lt;li>Developed a novel adversarial attack using the Class-Activation Maps of classifiers and the predicted noise maps from the UNet model of a DDPM.&lt;/li>
+&lt;li>Worked with datasets like CIFAR10, CelebaHQ&lt;/li>
+&lt;/ul></description></item><item><title>Intensity Optimized CT Reconstruction</title><link>https://SusimRoy.github.io/project/project1/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project1/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>Modelling of noise for CT simulations(e.g. Poisson-noise)by considering spatially non-uniform intensity distributions and in limited dosage environments(ULDCT).&lt;/li>
 &lt;li>Create a pattern so that the intensity distribution becomes learnable.&lt;/li>
 &lt;li>Apply an appropriate reconstruction technique which takes care of artifacts or likely noise patterns and generates back the original image which has high metric values when compared with ssim etc.&lt;/li>
-&lt;/ul></description></item><item><title>Robustness-of-Bayesian-Neural-Networks-against-White-Box-Attacks</title><link>https://SusimRoy.github.io/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;/ul></description></item><item><title>Robustness of BNNs against White Box Attacks</title><link>https://SusimRoy.github.io/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>An experimental work where we tested whether BNN posteriors are more robust to gradient based adversarial attacks when compared to the general learning based neural networks in SOTA architectures.&lt;/li>
 &lt;li>Implemented BNN posterior in Alexnet,LeNet, Resnet34 and a custom made CNN to test the validity of the theoretical result. Each of these 4 models were attacked with FGSM and PGD variants.&lt;/li>
@@ -226,7 +232,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-138694257" class="chart">&lt;/div>
+&lt;div id="chart-674215983" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -235,7 +241,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-138694257', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-674215983', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
