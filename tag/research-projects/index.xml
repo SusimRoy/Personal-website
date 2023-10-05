@@ -28,8 +28,4 @@ Transformer initialized with trained classifier weights and in the second stage 
 &lt;li>To capture the new variety of features, made a new convolutional decoder to interpret the spatial and temporal information into accurately segmenting the object.&lt;/li>
 &lt;li>Researched into joining the language and visual features using modules introduced by different papers such as a Multi-Scale Cross-Modal Feature Mining technique among others.&lt;/li>
 &lt;li>Extended the training and testing dataset to JHMDB and DAVIS-17 along with the standard A2D dataset.&lt;/li>
-&lt;/ul></description></item><item><title>Real Time Face Mask Detection</title><link>https://SusimRoy.github.io/project/project3/</link><pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project3/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>Used VGG-19 to train on a publicly available kaggle dataset on masked/non-masked faces and obtained an accuracy of 99.8%.&lt;/li>
-&lt;li>Used the haarCascades to detect the face in a real-time video and then apply our model to check whether the user has worn a mask or not.&lt;/li>
 &lt;/ul></description></item></channel></rss>
