@@ -10,6 +10,7 @@ author_notes:
 - "Indian Institute of Technology, Jodhpur"
 - "Indian Institute of Technology, Jodhpur"
 - "Indian Institute of Technology, Jodhpur"
+- "Indian Institute of Technology, Jodhpur"
 tags:
   - Coursework
   - CV

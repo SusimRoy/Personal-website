@@ -3,6 +3,7 @@ title: UAV Guided UGV Movement
 summary: DRDO, InterIIT'22.
 tags:
   - Robotics
+  - CV
 date: '2022-02-20'
 
 # Optional external URL for project (replaces project detail page).

@@ -3,6 +3,8 @@ title: Referring Moving Object Segmentation
 summary: Research Internship, IIT Guwahati
 tags:
   - Research Projects
+  - CV
+  - 
 date: '2022-07-20'
 authors: 
 - "Dr. Santosh Kumar Vipparthi"

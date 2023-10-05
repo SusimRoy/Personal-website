@@ -3,6 +3,7 @@ title: Pokemon Dashboard
 summary: Course Project for Data Visualization Course(CSL7050), IIT Jodhpur
 tags:
   - Coursework
+  - WebDev
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

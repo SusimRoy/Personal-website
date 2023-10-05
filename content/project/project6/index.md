@@ -3,6 +3,7 @@ title: Feedback Approach to Foster Motion Information in FPAR
 summary: Course Project for Deep Learning(CSL7050), IIT Jodhpur
 tags:
   - Coursework
+  - CV
 date: '2023-04-02'
 
 # Optional external URL for project (replaces project detail page).

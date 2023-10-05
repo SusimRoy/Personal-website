@@ -11,6 +11,7 @@ author_notes:
 - "Indian Institute of Technology, Jodhpur"
 tags:
   - Research Projects
+  - CV
 date: '2023-08-01'
 
 # Optional external URL for project (replaces project detail page).

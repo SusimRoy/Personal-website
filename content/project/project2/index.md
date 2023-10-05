@@ -3,6 +3,7 @@ title: Detecting Adversarial Perturbations While Determining Intentional and Uni
 summary: Undergraduate Research Project, IIT Jodhpur
 tags:
   - Research Projects
+  - CV
 date: '2022-08-30'
 authors: 
 - "Dr. Richa Singh"

@@ -3,6 +3,7 @@ title: Deep Video Summarization
 summary: Course project for the Deep Learning course(CSL7050), IIT Jodhpur
 tags:
   - Coursework
+  - CV
 date: '2023-05-20'
 
 # Optional external URL for project (replaces project detail page).

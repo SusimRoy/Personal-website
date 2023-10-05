@@ -3,6 +3,7 @@ title: Robustness of BNNs against White Box Attacks
 summary: Course Project for Dependable AI(CSL4050)
 tags:
   - Coursework
+  - CV
 date: '2023-08-01'
 
 # Optional external URL for project (replaces project detail page).

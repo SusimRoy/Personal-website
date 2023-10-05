@@ -2,7 +2,6 @@
 title: Real Time Face Mask Detection
 summary: Self-Project, IIT Jodhpur
 tags:
-  - Research Projects
   - CV
 date: '2021-04-20'
 
