@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Susim Mukul Roy</title><link>https://SusimRoy.github.io/project/</link><atom:link href="https://SusimRoy.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://SusimRoy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://SusimRoy.github.io/project/</link></image><item><title>Attacking DDPMs through Class Activation Maps</title><link>https://SusimRoy.github.io/project/project18/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project18/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>Conducted an extensive literature survey of diffusion models and their advantages and disadvantages.&lt;/li>
-&lt;li>Implemented an architecture which works with different pretrained DDPMs and classifiers.&lt;/li>
-&lt;li>Developed a novel adversarial attack using the Class-Activation Maps of classifiers and the predicted noise maps from the UNet model of a DDPM.&lt;/li>
-&lt;li>Worked with datasets like CIFAR10, CelebaHQ&lt;/li>
-&lt;/ul></description></item><item><title>Intensity Optimized CT Reconstruction</title><link>https://SusimRoy.github.io/project/project1/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project1/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>Modelling of noise for CT simulations(e.g. Poisson-noise)by considering spatially non-uniform intensity distributions and in limited dosage environments(ULDCT).&lt;/li>
-&lt;li>Create a pattern so that the intensity distribution becomes learnable.&lt;/li>
-&lt;li>Apply an appropriate reconstruction technique which takes care of artifacts or likely noise patterns and generates back the original image which has high metric values when compared with ssim etc.&lt;/li>
-&lt;/ul></description></item><item><title>On Discriminating Intentional Adversarial Perturbations with Unintentional Noises</title><link>https://SusimRoy.github.io/project/project19/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project19/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Susim Mukul Roy</title><link>https://SusimRoy.github.io/project/</link><atom:link href="https://SusimRoy.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://SusimRoy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://SusimRoy.github.io/project/</link></image><item><title>On Discriminating Intentional Adversarial Perturbations with Unintentional Noises</title><link>https://SusimRoy.github.io/project/project19/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project19/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>We propose a class-independent detection method, CIAI, using Maximum Mean Discrepancy and classifying the intended and unintended noise separately.&lt;/li>
 &lt;li>We show how both types of noises affect the classification accuracy for gender prediction on the CelebA dataset. We show the detection accuracy which is comparable and at times exceeds the previous state-of-the-art detection methods including performance on unseen attacks.&lt;/li>
@@ -20,12 +9,23 @@
 &lt;li>Implemented BNN posterior in Alexnet,LeNet, Resnet34 and a custom made CNN to test the validity of the theoretical result. Each of these 4 models were attacked with FGSM and PGD variants.&lt;/li>
 &lt;li>Implemented two bayesian estimation methods namely the conventional variational inference and one of it&amp;rsquo;s modified version called local reparametrisation trick into the three above models.&lt;/li>
 &lt;li>Results indicate that Resnet34 takes a much longer time to train and has relatively poorer classification accuracy as compared to the other three models. A hypothesis supporting this fact is that Resnet34 has a more complex structure which doesn&amp;rsquo;t model the data distribution properly through the priors at each block.&lt;/li>
+&lt;/ul></description></item><item><title>Training with Continuous Sensor System Parameters and Irregular Data</title><link>https://SusimRoy.github.io/project/project1/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project1/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>Modelling of noise for CT simulations(e.g. Poisson-noise)by considering spatially non-uniform intensity distributions and in limited dosage environments(ULDCT).&lt;/li>
+&lt;li>Create a pattern so that the intensity distribution becomes learnable.&lt;/li>
+&lt;li>Apply an appropriate reconstruction technique which takes care of artifacts or likely noise patterns and generates back the original image which has high metric values when compared with ssim etc.&lt;/li>
 &lt;/ul></description></item><item><title>Visual Motion Analysis from Images and Videos</title><link>https://SusimRoy.github.io/project/project16/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project16/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>The main objective was to work towards developing a software to find the optimal time to spray fungicides to prevent the spread of FHB disease among the common vegetation.&lt;/li>
 &lt;li>Wheat and Canola flower data collection and annotation using SCVAT and storing them as PASCAL-VOC or YOLO format.&lt;/li>
 &lt;li>Improving Yolov8 and Efficient-Det(pytorch version) algorithms to work on the created dataset by tuning hyperparameters in the former case and incorporating an attention module(e.g. CBAM) in the latter case.&lt;/li>
 &lt;li>Deployment of the trained models on the &lt;a href="https://demo.sga.ai/" target="_blank" rel="noopener">demo Website&lt;/a> for usage by farmers and similar people for FHB prevention.&lt;/li>
+&lt;/ul></description></item><item><title>Vulnerability of Diffusion Models to Adversarial Attacks</title><link>https://SusimRoy.github.io/project/project18/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project18/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>Conducted an extensive literature survey of diffusion models and their advantages and disadvantages.&lt;/li>
+&lt;li>Implemented an architecture which works with different pretrained DDPMs and classifiers.&lt;/li>
+&lt;li>Developed a novel adversarial attack using the Class-Activation Maps of classifiers and the predicted noise maps from the UNet model of a DDPM which gives a better attack in terms of ASR, Robust accuracy and FID.&lt;/li>
+&lt;li>Worked with datasets like CIFAR10, CelebaHQ, FFHQ etc.&lt;/li>
 &lt;/ul></description></item><item><title>Deep Video Summarization</title><link>https://SusimRoy.github.io/project/project9/</link><pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project9/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>Given an input video data, we find the most informative slides and summarize the content in the video in the form of natural language.&lt;/li>
