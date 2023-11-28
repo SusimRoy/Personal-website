@@ -1,5 +1,5 @@
 ---
-title: Attacking DDPMs through Class Activation Maps
+title: Vulnerability of Diffusion Models to Adversarial Attacks
 authors: 
 - Anubhooti Jain
 - Susim Mukul Roy
@@ -45,5 +45,5 @@ url_video: ''
 ## Summary 
 - Conducted an extensive literature survey of diffusion models and their advantages and disadvantages. 
 - Implemented an architecture which works with different pretrained DDPMs and classifiers. 
-- Developed a novel adversarial attack using the Class-Activation Maps of classifiers and the predicted noise maps from the UNet model of a DDPM.
-- Worked with datasets like CIFAR10, CelebaHQ
+- Developed a novel adversarial attack using the Class-Activation Maps of classifiers and the predicted noise maps from the UNet model of a DDPM which gives a better attack in terms of ASR, Robust accuracy and FID.
+- Worked with datasets like CIFAR10, CelebaHQ, FFHQ etc.

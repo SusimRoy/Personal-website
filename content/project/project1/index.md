@@ -1,7 +1,7 @@
 ---
-title: Intensity Optimized CT Reconstruction
+title: Training with Continuous Sensor System Parameters and Irregular Data
 authors: 
-- "Dr.Michael Moeller"
+- "Prof. Dr. Michael Moeller"
 - Susim Mukul Roy
 - Alexander Aurus
 - Hendrik Sommerhoff
