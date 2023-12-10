@@ -9,7 +9,13 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>On Discriminating Intentional Adversarial Perturbations with Unintentional Noises</title><link>https://SusimRoy.github.io/project/project19/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project19/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>A Sequential Memory Preserving Approach for Few-Shot Image Classification</title><link>https://SusimRoy.github.io/project/project20/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project20/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;ul>
+&lt;li>we model the meta-training set as the combination of all the individual task specific training sets instead of a multi-task setting.&lt;/li>
+&lt;li>We understand the cross-domain connection stored in the feature extractor using our Memory Augmented Propagation network which stores the information from the previous layers of our backbone.&lt;/li>
+&lt;li>We apply self-attention on each output feature map of the layers of our backbone in a hierarchical manner to find co-dependency.&lt;/li>
+&lt;li>We test on the popular CIFAR-FS and miniImageNet datasets and find that our results are at par and sometimes even better than convolutional based SOTA approaches like MetaOptNet.&lt;/li>
+&lt;/ul></description></item><item><title>On Discriminating Intentional Adversarial Perturbations with Unintentional Noises</title><link>https://SusimRoy.github.io/project/project19/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/project/project19/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>We propose a class-independent detection method, CIAI, using Maximum Mean Discrepancy and classifying the intended and unintended noise separately.&lt;/li>
 &lt;li>We show how both types of noises affect the classification accuracy for gender prediction on the CelebA dataset. We show the detection accuracy which is comparable and at times exceeds the previous state-of-the-art detection methods including performance on unseen attacks.&lt;/li>
@@ -237,7 +243,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-798531462" class="chart">&lt;/div>
+&lt;div id="chart-591286743" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -246,7 +252,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-798531462', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-591286743', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
