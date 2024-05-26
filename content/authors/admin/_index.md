@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Year Undergraduate Student
+role: Incoming MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Indian Institute of Technology, Jodhpur
-    url: https://www.iitj.ac.in/
+  - name: University at Buffalo
+    url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main goal is to build trustable ai integrated robotic systems.
@@ -37,12 +37,12 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
+    - course: MS in Computer Science and Engineering
+      institution: University at Buffalo, NY
+      year: Present
     - course: B.Tech in Artificial Intelligence and Data Engineering
       institution: Indian Institute of Technology, Jodhpur
       year: 2024
-    - course: High School
-      institution: Garden High School
-      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior-Year B.Tech student in the Department of Computer Science and Engineering, pursuing a major in Artificial Intelligence and Data Engineering at the [Indian Institute of Technology, Jodhpur](https://www.iitj.ac.in/). I am also an Undergraduate Student Researcher in the [Image Analysis and Biometrics Lab](http://iab-rubric.org/), advised by [Dr. Richa Singh](http://home.iitj.ac.in/~richa/) and [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) on Trustable AI. Additionally, I have worked on various related fields like Moving Object Segmentation as well as Detection, Image Reconstruction etc. 
+I am an incoming Master of Science student in the Department of Computer Science at the University of Buffalo. Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science. My current research focuses on video analytics and related fields like Object Recognition. Previously, I have worked on adversarial learning and leveraging foundation models for biometric applications.
 {style="text-align: justify;"}
