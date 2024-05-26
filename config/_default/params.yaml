@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/SusimRoy/Personal-website'
+    url: 'https://susimroy.github.io/Personal-website/'
     content_dir: content
     branch: main
   avatar:
