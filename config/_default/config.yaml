@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Susim Mukul Roy # Website name
-baseURL: https://SusimRoy.github.io # Website URL
-
+baseURL: https://SusimRoy.github.io/Personal-wesbite/ # Website URL
+relativeURLs: true
+canonifyURLs: true
 ############################
 ## LANGUAGE
 ############################
@@ -18,6 +19,8 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
+
+
 
 module:
   imports:
