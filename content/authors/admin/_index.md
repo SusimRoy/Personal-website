@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an incoming Master of Science student in the Department of Computer Science at the University of Buffalo. Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science. My current research focuses on video analytics and related fields like Object Recognition. Previously, I have worked on adversarial learning and leveraging foundation models for biometric applications.
+I am an incoming Master of Science student in the Department of Computer Science at the University of Buffalo. Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science. My current research focuses on video analytics and related fields like Object Recognition. Previously, I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 {style="text-align: justify;"}
