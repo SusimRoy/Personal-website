@@ -9,7 +9,21 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>RefMOS: A Robust Referred Moving Object Segmentation framework based on text query</title><link>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper/</guid><description>&lt;!-- #
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Discerning the Chaos: Detecting Adversarial Perturbations while Disentangling Intentional from Unintentional Noises</title><link>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper2/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper2/</guid><description>&lt;!-- #
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;h1 id="click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/div>
+&lt;/div>
+#
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;h1 id="create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/h1>
+&lt;h1 id="heading">&lt;/h1>
+&lt;/div>
+&lt;/div>
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>RefMOS: A Robust Referred Moving Object Segmentation framework based on text query</title><link>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/publication/conference-paper/</guid><description>&lt;!-- #
 &lt;div class="alert alert-note">
 &lt;div>
 &lt;h1 id="click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
@@ -29,11 +43,6 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>We understand the cross-domain connection stored in the feature extractor using our Memory Augmented Propagation network which stores the information from the previous layers of our backbone.&lt;/li>
 &lt;li>We apply self-attention on each output feature map of the layers of our backbone in a hierarchical manner to find co-dependency.&lt;/li>
 &lt;li>We test on the popular CIFAR-FS and miniImageNet datasets and find that our results are at par and sometimes even better than convolutional based SOTA approaches like MetaOptNet.&lt;/li>
-&lt;/ul></description></item><item><title>On Discriminating Intentional Adversarial Perturbations with Unintentional Noises</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project19/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project19/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>We propose a class-independent detection method, CIAI, using Maximum Mean Discrepancy and classifying the intended and unintended noise separately.&lt;/li>
-&lt;li>We show how both types of noises affect the classification accuracy for gender prediction on the CelebA dataset. We show the detection accuracy which is comparable and at times exceeds the previous state-of-the-art detection methods including performance on unseen attacks.&lt;/li>
-&lt;li>Using attention maps we further show features that help with the prediction of gender and detection of noises.&lt;/li>
 &lt;/ul></description></item><item><title>Robustness of BNNs against White Box Attacks</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project17/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project17/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;ul>
 &lt;li>An experimental work where we tested whether BNN posteriors are more robust to gradient based adversarial attacks when compared to the general learning based neural networks in SOTA architectures.&lt;/li>
@@ -77,13 +86,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/ul></description></item><item><title>Multimodal Art Database</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project11/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project11/</guid><description>&lt;h2>Summary&lt;/h2>
 - A user had to input an artistic image and our software would detect the top k artists who could have possibly made the painting and store them in a local MariaDB database. &lt;br/>
 - To find the similarity between input painting and the database, we used the CLIP model to first finetune on our art database and then using the cosine similarity between the stored embeddings and our input feature embedding. &lt;br/>
-- The most likely images got stored in a normalized SQL tables with foreign keys linking between the image id table and the artist id table.</description></item><item><title>Detecting Adversarial Perturbations While Determining Intentional and Unintentional Noises</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project2/</link><pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project2/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;ul>
-&lt;li>We proposed a class-independent detection method, CIAI, using Maximum Mean Discrepancy which classifies the intended(adversarial attacks) and unintended(for e.g. Gaussian) noise separately.&lt;/li>
-&lt;li>The algorithm is multistage indicating that in the first stage, we use an MMD-based loss to train a Vision
-Transformer initialized with trained classifier weights and in the second stage we use the trained detector for classification by freezing all the layers and adding three trainable layers for training.&lt;/li>
-&lt;li>We show the detection accuracy which is comparable and at times exceeds the previous state-of-the-art detection methods, including performance on unseen attacks.&lt;/li>
-&lt;/ul></description></item><item><title>UAV Guided UGV Movement</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project12/</link><pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project12/</guid><description>&lt;h2>Summary&lt;/h2>
+- The most likely images got stored in a normalized SQL tables with foreign keys linking between the image id table and the artist id table.</description></item><item><title>UAV Guided UGV Movement</title><link>https://SusimRoy.github.io/Personal-wesbite/project/project12/</link><pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate><guid>https://SusimRoy.github.io/Personal-wesbite/project/project12/</guid><description>&lt;h2>Summary&lt;/h2>
 - An autonomous drone had to navigate in hilly environment and store it's path while moving towards the goal point following which a UGV would follow the path made by the UAV and reach the endpoint. &lt;br/>
 - Used OpenCV and segmentation techniques along with ROS to segment out road from surroundings using depth images.&lt;br/>
 - Analyzed the drone movement using Gazebo and RVIZ in order to accurately find an optimal path for the UGV. &lt;br/>
@@ -250,7 +253,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-423516798" class="chart">&lt;/div>
+&lt;div id="chart-179346825" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -259,7 +262,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-423516798', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-179346825', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
