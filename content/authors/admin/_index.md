@@ -58,9 +58,9 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=45HQnGoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/SusimRoy
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Master of Science student in the Department of Computer Science at the University of Buffalo. Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science. My current research focuses on video analytics and related fields like Object Recognition. Previously, I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
+I am a Master of Science student in the Department of Computer Science at the University of Buffalo. Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science. My current research focuses on increasing the trustability and precision of generative models. Previously, I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
 {style="text-align: justify;"}
