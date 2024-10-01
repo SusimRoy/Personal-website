@@ -8,6 +8,7 @@ Intentional from Unintentional Noises"
 authors:
   - Anubhooti Jain
   - Susim M Roy
+  - Kwanit Gupta
   - Mayank Vatsa
   - Richa Singh
 
@@ -29,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Joint Conference on Biometrics(IJCB)*
+publication: In *IEEE International Joint Conference on Biometrics(IJCB), 2024(Oral)*
 publication_short: In *IEEE IJCB*
 
 abstract: Deep learning models, such as those used for face recognition and attribute prediction, are susceptible to manipulations like adversarial noise and unintentional noise, including Gaussian and impulse noise. This paper introduces CIAI, a class-independent detection network built on a modified vision transformer with detection layers. CIAI employs a novel loss function that combines Maximum Mean Discrepancy and Center Loss to detect both intentional (adversarial attacks) and unintentional noise, regardless of the image class. We illustrate the impact of noise on gender prediction accuracy and evaluate CIAI’s detection performance using the CelebA and LFW datasets. Our findings show that CIAI achieves detection accuracy that is comparable to or better than existing methods, even against previously unseen attacks. Attention maps and t-SNE plots reveal the features that assist in gender prediction and noise detection. Additionally, we present detection results on the AgeDB and CIFAR-10 datasets, further demonstrating the robustness of our approach.
@@ -47,12 +48,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://arxiv.org/abs/2409.19619'
+url_code: 'https://github.com/SusimRoy/CIAI'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
+url_poster: 'https://docs.google.com/presentation/d/1LMW1V5vwbR9ixUdmVMMolAxUJ7xAYPVVGJGF2Xmb0Nc/edit?usp=sharing'
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1tjDkIvcwm7S0eS7vDD9Aoq2pFbcayKJbj_EXOXG3_6Q/edit?usp=sharing'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 

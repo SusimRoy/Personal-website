@@ -30,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Advanced Video and Signal-Based Surveillance(AVSS)*
+publication: In *IEEE International Conference on Advanced Video and Signal-Based Surveillance(AVSS), 2024*
 publication_short: In *IEEE AVSS*
 
 abstract: Referred Moving object segmentation is a very challenging task in automated video surveillance applications as it requires additional information to learn about object representation referred by natural language expression. In segmenting specific moving objects targeted by a text, suppressing other moving as well as stationary objects is a crucial task. A better context needs to be learned where linguistic, spatial, and temporal features need to be taken into account. In this work, we have proposed a robust referred moving object segmentation (RefMOS) framework to capture moving objects referred by text query. Most of the earlier state-of-the-art methods exploit a different type of supervision by treating video frames as images but lack temporal information during processing. In this work, we have proposed an inter-frame movement detector (IFCD) module, which extracts the movement information between the consecutive frames and helps integrate temporal information with spatial visual features. Language embedding is utilized to capture the information of referred moving objects in the text by extracting linguistic features from a pre-trained language model, i.e., BERT. Furthermore, the cross-entropy loss and SGD optimizer are used to train the network. Our RefMOS framework competes with the state-of-the-art approaches and achieves 48.6 mean IOU on the ref-DAVIS 17 dataset.
@@ -48,12 +48,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10672595'
+url_code: 'https://github.com/SusimRoy/refvos'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
+url_poster: 'https://docs.google.com/presentation/d/1pOFGNx_oPBpEVAse6PstWjDb3vOCitlG3lD0cOpUO14/edit?usp=sharing'
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1hXfuwqmE1WiB-SW3Gxw1UXfzuJ73GsUHZgV701n1JyY/edit?usp=sharing'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
