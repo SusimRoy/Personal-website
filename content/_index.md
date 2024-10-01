@@ -40,7 +40,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: MITACS GRI'23
+        - title: Graduate Research Assistant
+          company: University of Buffalo
+          company_url: ''
+          company_logo: ''
+          location: Buffalo, NY, USA
+          date_start: '2024-08-20'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Working on improving training and inference time  of CNNs and generative models in general under Prof. [Nalini K Ratha](https://nalini-ratha.github.io/).
+
+        - title: MITACS Research Intern
           company: University of Alberta/SuperGeo AI
           company_url: 'https://sga.ai/'
           company_logo: 'University-of-Alberta'
@@ -51,10 +63,10 @@ sections:
               Responsibilities include:
 
               * Wheat and Canola plants data Collection and Annotation.
-              * Developing Object Detection models such as Efficient-Det and Yolov8 for accurate detection.
+              * Developing Object Detection models such as Efficient-Det and Yolov8 for accurate detection. Mentors: [Prof. Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) and [Dr. Weiping Zeng](https://www.linkedin.com/in/weiping-zeng-3747a738/?originalSubdomain=ca)
               * Deploying on company's demo website for real-time usage.
 
-        - title: Deep Learning Intern
+        - title: Research Intern
           company: Indian Institute of Technology, Guwahati
           company_url: ''
           company_logo: ''
@@ -63,22 +75,21 @@ sections:
           date_end: '2023-01-31'
           description: |2-
             Responsibilites include:
-            
             * Creating an extensive literature survey on work done in MOS like analyzing SOTA models like Referformer, MTTR etc.
-            * Incorporating temporal information between relatively important frames into RefVos along with encoder-decoder structures for feature retrieval. 
+            * Incorporating temporal information between relatively important frames into RefVos along with encoder-decoder structures for feature retrieval. Mentors: [Dr. Santosh K Vipparthi](https://visionintelligence.github.io/People.html) and [Dr. R. Balasubramanian](https://faculty.iitr.ac.in/cs/bala/)
 
-        - title: ABU-Robocon'22
-          company: Indian Institute of Technology, Jodhpur
-          company_url: ''
-          company_logo: ''
-          location: Jodhpur, India
-          date_start: '2021-11-01'
-          date_end: '2022-04-30'
-          description: |2-
-            Responsibilites include:
+        # - title: ABU-Robocon'22
+        #   company: Indian Institute of Technology, Jodhpur
+        #   company_url: ''
+        #   company_logo: ''
+        #   location: Jodhpur, India
+        #   date_start: '2021-11-01'
+        #   date_end: '2022-04-30'
+        #   description: |2-
+        #     Responsibilites include:
             
-            * Developing the software using ROS for autonomous control of robots.
-            * Integrating Object Detection AI models like DETR with ROS.
+        #     * Developing the software using ROS for autonomous control of robots.
+        #     * Integrating Object Detection AI models like DETR with ROS.
     design:
       columns: '2'
 
