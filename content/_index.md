@@ -40,7 +40,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Assistant
+        - title: Graduate Student Assistant
           company: University of Buffalo
           company_url: ''
           company_logo: ''
@@ -137,48 +137,39 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: compact
-      # # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  # - block: accomplishments
-  #   id: accomplishment
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: 'To be Received'
-  #         date_end: '2023-08-10'
-  #         date_start: '2023-05-18'
-  #         description: 'Awarded the MITACS scholarship for onsite research internship at University of Alberta'
-  #         organization: MITACS
-  #         organization_url: https://www.mitacs.ca/en
-  #         title: AI Research Internship
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
+      # For Showcase view, flip alternate rows?
+      # flip_alt_rows: false
+  - block: accomplishments
+    id: accomplishment
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: '2023-08-10'
+          date_start: '2023-05-18'
+          description: 'Awarded the MITACS scholarship for onsite research internship at University of Alberta'
+          organization: MITACS
+          organization_url: https://www.mitacs.ca/en
+          title: AI Research Internship
+          url: ''
+        - certificate_url: 
+          date_start: '2024-09-18'
+          description: 'Received the Rising Star in Diversity, Equity and Inclusion(DEI) Advocacy travel grant for 8th IEEE IJCB conference'
+          organization: IEEE Biometrics Council
+          organization_url: https://ieee-biometrics.org/
+          title: DEI Travel Grant
+          url: ''
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:

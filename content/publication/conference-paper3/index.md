@@ -1,24 +1,21 @@
 ---
-title: "RefMOS: A Robust Referred Moving Object Segmentation framework based on text query"
+title: "Efficient Convolutions using Box-Filters for Low-Latency Image Processing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Prafulla Saxena
   - Susim M Roy
-  - Santosh K Vipparthi
-  - Dinesh K Tyagi
-  - Subrahmanyam Murala
-  - R. Balasubramanian
+  - Bharat Yalavarthi
+  - Nalini Ratha
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-07-15'
-doi: '10.1109/AVSS61716.2024.10672595'
+date: '2024-11-08'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -30,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Advanced Video and Signal-Based Surveillance(AVSS), 2024*
-publication_short: In *IEEE AVSS*
+publication: In *IEEE Western New York Image and Signal Processing Workshop(2024)(Oral)*
+publication_short: In *IEEE WNYISPW'2024*
 
-abstract: Referred Moving object segmentation is a very challenging task in automated video surveillance applications as it requires additional information to learn about object representation referred by natural language expression. In segmenting specific moving objects targeted by a text, suppressing other moving as well as stationary objects is a crucial task. A better context needs to be learned where linguistic, spatial, and temporal features need to be taken into account. In this work, we have proposed a robust referred moving object segmentation (RefMOS) framework to capture moving objects referred by text query. Most of the earlier state-of-the-art methods exploit a different type of supervision by treating video frames as images but lack temporal information during processing. In this work, we have proposed an inter-frame movement detector (IFCD) module, which extracts the movement information between the consecutive frames and helps integrate temporal information with spatial visual features. Language embedding is utilized to capture the information of referred moving objects in the text by extracting linguistic features from a pre-trained language model, i.e., BERT. Furthermore, the cross-entropy loss and SGD optimizer are used to train the network. Our RefMOS framework competes with the state-of-the-art approaches and achieves 48.6 mean IOU on the ref-DAVIS 17 dataset.
+abstract: The convolution operator in Convolutional Neural Networks (CNNs) has been a crucial aspect of success in various computer vision tasks. There has been a recent surge in the use of CNNs for generative modeling. However, such techniques usually have a long inference time which is mainly due to the costly convolution operation. Thus, we bring our attention to reducing the total number of mathematical operations during convolution using the Summed Area Table (SAT) and box filters. In this work, we find the redundant box filters that are being repeated across the filter dimension and prune them to save computation. Additionally, we also show that this does not take a toll on the accuracy and instead increases it after finetuning the remaining architecture. Thus, our proposed method computes convolution output with lower latency as compared to using all the box filters, increases classification accuracy, and can be applied with arbitrarily shaped kernels.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,12 +45,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10672595'
-url_code: 'https://github.com/SusimRoy/refvos'
+url_pdf: ''
+# url_code: 'https://github.com/SusimRoy/CIAI'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: 'https://docs.google.com/presentation/d/1pOFGNx_oPBpEVAse6PstWjDb3vOCitlG3lD0cOpUO14/edit?usp=sharing'
+# url_poster: 'https://docs.google.com/presentation/d/1LMW1V5vwbR9ixUdmVMMolAxUJ7xAYPVVGJGF2Xmb0Nc/edit?usp=sharing'
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1hXfuwqmE1WiB-SW3Gxw1UXfzuJ73GsUHZgV701n1JyY/edit?usp=sharing'
+url_slides: 'https://docs.google.com/presentation/d/1eyS7lXhDffbyDXrEmwhGO16L7hvCldZpjrSTE21nsac/edit?usp=sharing'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
