@@ -163,10 +163,17 @@ sections:
           url: ''
         - certificate_url: 
           date_start: '2024-09-18'
-          description: 'Received the Rising Star in Diversity, Equity and Inclusion(DEI) Advocacy travel grant for 8th IEEE IJCB conference'
+          description: 'Received the Rising Star in Diversity, Equity and Inclusion(DEI) Advocacy travel grant for 8th IEEE International Joint Conference on Biometrics(IJCB) conference'
           organization: IEEE Biometrics Council
           organization_url: https://ieee-biometrics.org/
           title: DEI Travel Grant
+          url: ''
+        - certificate_url: 
+          date_start: '2024-11-08'
+          description: 'Received the Best Student Paper Award at the 2024 IEEE Western New York Image Processing Workshop(WNYISPW)'
+          organization: IEEE Rochester Section
+          organization_url: https://ieee-biometrics.org/
+          title: Best Student Paper
           url: ''
     design:
       columns: '2'
