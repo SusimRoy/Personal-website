@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-11-08'
-doi: ''
+doi: 'https://doi.org/10.1109/WNYISPW63690.2024.10786496'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'content/publication/conference-paper3/conference-paper.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10786496'
 # url_code: 'https://github.com/SusimRoy/CIAI'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'https://docs.google.com/presentation/d/1LMW1V5vwbR9ixUdmVMMolAxUJ7xAYPVVGJGF2Xmb0Nc/edit?usp=sharing'
