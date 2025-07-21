@@ -26,7 +26,7 @@ bio: My main goal is to build trustable ai integrated robotic systems.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
+  - Generative AI
   - Computer Vision
   - Robotics
   - Trustable AI
@@ -38,10 +38,10 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: MS in Computer Science and Engineering
-      institution: University at Buffalo, NY
+      institution: University at Buffalo, State University of New York, NY, USA
       year: Present
-    - course: B.Tech in Artificial Intelligence and Data Engineering
-      institution: Indian Institute of Technology, Jodhpur
+    - course: B.Tech in Artificial Intelligence and Data Science
+      institution: Indian Institute of Technology, Jodhpur, India
       year: 2024
 
 # Social/Academic Networking
@@ -78,8 +78,8 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-I am a Master of Science student in the Department of Computer Science at the University of Buffalo. My current research focuses on increasing the trustability and precision of generative models in resource-constrained environments under the supervision of [Prof. Nalini Ratha](https://nalini-ratha.github.io/). Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science where I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Dr. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Dr. Richa Singh](http://home.iitj.ac.in/~richa/).
+I am a Master of Science student in the Department of Computer Science at the University of Buffalo. My current research focuses on increasing the trustability and precision of multimodal generative models at the Trusted AI Lab under the supervision of [Prof. Nalini Ratha](https://nalini-ratha.github.io/). Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science where I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
 {style="text-align: justify;"}

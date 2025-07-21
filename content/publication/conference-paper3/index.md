@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Western New York Image and Signal Processing Workshop(2024)(Oral)*
-publication_short: In *IEEE WNYISPW'2024*
+summary: IEEE WNYISPW'2024
 
 abstract: The convolution operator in Convolutional Neural Networks (CNNs) has been a crucial aspect of success in various computer vision tasks. There has been a recent surge in the use of CNNs for generative modeling. However, such techniques usually have a long inference time which is mainly due to the costly convolution operation. Thus, we bring our attention to reducing the total number of mathematical operations during convolution using the Summed Area Table (SAT) and box filters. In this work, we find the redundant box filters that are being repeated across the filter dimension and prune them to save computation. Additionally, we also show that this does not take a toll on the accuracy and instead increases it after finetuning the remaining architecture. Thus, our proposed method computes convolution output with lower latency as compared to using all the box filters, increases classification accuracy, and can be applied with arbitrarily shaped kernels.
 

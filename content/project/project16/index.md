@@ -1,7 +1,7 @@
 ---
 title: Visual Motion Analysis from Images and Videos
 authors: 
-- "Dr. Li Cheng"
+- "Prof. Li Cheng"
 - Dr. Weiping Zeng
 - Susim Mukul Roy
 summary: Research Internship, University of Alberta

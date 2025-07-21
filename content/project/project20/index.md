@@ -1,6 +1,12 @@
 ---
 title: A Sequential Memory Preserving Approach for Few-Shot Image Classification
 summary: Course Project for Advanced Machine Learning(CSL7340)
+authors: 
+- Susim Roy
+- Prof. Mayank Vatsa
+author_notes:
+- "IIT Jodhpur"
+- "IIT Jodhpur"
 tags:
   - Coursework
   - CV

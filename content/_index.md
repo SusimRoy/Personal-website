@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: features
@@ -43,33 +43,35 @@ sections:
         - title: Graduate Student Assistant
           company: University of Buffalo
           company_url: ''
-          company_logo: ''
+          company_logo: 'University_at_Buffalo_logo'
           location: Buffalo, NY, USA
           date_start: '2024-08-20'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Working on improving training and inference time  of CNNs and generative models in general under Prof. [Nalini K Ratha](https://nalini-ratha.github.io/).
+              * Improving the inference time of CNN models for applications like Face Recognition.
+              * Developing an end-to-end privacy enhanced CNN network with FHE encryption techniques
+              * Working on generative models like LLMs and Diffusion Models. Mentor: Prof. [Nalini K Ratha](https://nalini-ratha.github.io/).
 
         - title: MITACS Research Intern
           company: University of Alberta/SuperGeo AI
           company_url: 'https://sga.ai/'
-          company_logo: 'University-of-Alberta'
+          company_logo: 'uofa'
           location: Edmonton, Canada
           date_start: '2023-05-18'
           date_end: '2023-08-10'
           description: |2-
               Responsibilities include:
 
-              * Wheat and Canola plants data Collection and Annotation.
+              * Wheat and Canola plants data collection, annotation and analysis.
               * Developing Object Detection models such as Efficient-Det and Yolov8 for accurate detection. Mentors: [Prof. Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) and [Dr. Weiping Zeng](https://www.linkedin.com/in/weiping-zeng-3747a738/?originalSubdomain=ca)
-              * Deploying on company's demo website for real-time usage.
+              * Deploying on company's demo website through AWS S3 for real-time usage.
 
-        - title: Research Intern
+        - title: Machine Learning Intern
           company: Indian Institute of Technology, Guwahati
           company_url: ''
-          company_logo: ''
+          company_logo: 'iitg'
           location: Guwahati, India
           date_start: '2022-05-01'
           date_end: '2023-01-31'
@@ -77,19 +79,6 @@ sections:
             Responsibilites include:
             * Creating an extensive literature survey on work done in MOS like analyzing SOTA models like Referformer, MTTR etc.
             * Incorporating temporal information between relatively important frames into RefVos along with encoder-decoder structures for feature retrieval. Mentors: [Dr. Santosh K Vipparthi](https://visionintelligence.github.io/People.html) and [Dr. R. Balasubramanian](https://faculty.iitr.ac.in/cs/bala/)
-
-        # - title: ABU-Robocon'22
-        #   company: Indian Institute of Technology, Jodhpur
-        #   company_url: ''
-        #   company_logo: ''
-        #   location: Jodhpur, India
-        #   date_start: '2021-11-01'
-        #   date_end: '2022-04-30'
-        #   description: |2-
-        #     Responsibilites include:
-            
-        #     * Developing the software using ROS for autonomous control of robots.
-        #     * Integrating Object Detection AI models like DETR with ROS.
     design:
       columns: '2'
 
@@ -101,6 +90,7 @@ sections:
         folders:
           - publication
         featured_only: true
+        # publication: true
     design:
       columns: '2'
       view: compact
@@ -161,14 +151,14 @@ sections:
           organization_url: https://www.mitacs.ca/en
           title: AI Research Internship
           url: ''
-        - certificate_url: 
+        - certificate_url: 'https://drive.google.com/file/d/1dAeIuQL3sbOHJqfjw2owfJkRLsG4URiw/view?usp=sharing'
           date_start: '2024-09-18'
           description: 'Received the Rising Star in Diversity, Equity and Inclusion(DEI) Advocacy travel grant for 8th IEEE International Joint Conference on Biometrics(IJCB) conference'
           organization: IEEE Biometrics Council
           organization_url: https://ieee-biometrics.org/
           title: DEI Travel Grant
           url: ''
-        - certificate_url: 
+        - certificate_url: 'https://drive.google.com/file/d/1DSvsOHlKEeNs0emWGWcgJZkDC_R0jCJ_/view?usp=sharing'
           date_start: '2024-11-08'
           description: 'Received the Best Student Paper Award at the 2024 IEEE Western New York Image Processing Workshop(WNYISPW)'
           organization: IEEE Rochester Section

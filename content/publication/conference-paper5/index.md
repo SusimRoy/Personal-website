@@ -1,13 +1,12 @@
 ---
-title: "Discerning the Chaos: Detecting Adversarial Perturbations while Disentangling Intentional from Unintentional Noises"
+title: "TAIGen: Training-Free Adversarial Image Generation via Diffusion Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Anubhooti Jain
   - Susim Roy
-  - Kwanit Gupta
+  - Anubhooti Jain
   - Mayank Vatsa
   - Richa Singh
 
@@ -16,8 +15,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-09-17'
-doi: '10.1109/IJCB62174.2024.10744526'
+date: '2025-07-14'
+# doi: '10.1109/AVSS61716.2024.10672595'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -29,10 +28,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Joint Conference on Biometrics(IJCB), 2024(Oral)*
-summary: IJCB'2024
+publication: In *Proceedings of IEEE/CVF International Conference on Computer Vision, Workshop on Biometrics, Identity and Behaviour Science(ICCVw'25)(Oral)*
+summary: ICCVw'2025
 
-abstract: Deep learning models, such as those used for face recognition and attribute prediction, are susceptible to manipulations like adversarial noise and unintentional noise, including Gaussian and impulse noise. This paper introduces CIAI, a class-independent detection network built on a modified vision transformer with detection layers. CIAI employs a novel loss function that combines Maximum Mean Discrepancy and Center Loss to detect both intentional (adversarial attacks) and unintentional noise, regardless of the image class. We illustrate the impact of noise on gender prediction accuracy and evaluate CIAI’s detection performance using the CelebA and LFW datasets. Our findings show that CIAI achieves detection accuracy that is comparable to or better than existing methods, even against previously unseen attacks. Attention maps and t-SNE plots reveal the features that assist in gender prediction and noise detection. Additionally, we present detection results on the AgeDB and CIFAR-10 datasets, further demonstrating the robustness of our approach.
+abstract: Adversarial perturbations generated using GANs or diffusion models often suffer from issues such as poor quality, long generation runtime, and high computational costs. Additionally, diffusion models are known to have been trained on large sets of training data, which makes it hard to control the generated data. Thus, we explore the plethora of feature variations in the diffusion model backbone to select the right properties for unintended perturbations. To this end, we propose TAIGen, a novel black-box, training-free adversarial attack method. TAIGen utilizes unconditional diffusion models to generate perturbations efficiently in just a few sampling steps. Our approach introduces a selective channel-based mechanism that integrates attention maps and GradCAM that are both robust and imperceptible. These perturbations are also transferable to unseen classifiers, increasing their overall impact. The effectiveness of TAIGen is validated across the ImageNet, CIFAR-10, and CelebA-HQ datasets. In the challenging black-box setting on ImageNet using VGGNet as the source model, TAIGen achieves attack success rates of 70.6% on ResNet, 80.8% on MNASNet, and 97.81% on ShuffleNet.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,12 +46,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2409.19619'
-url_code: 'https://github.com/SusimRoy/CIAI'
+# url_pdf: 'conference-paper5'
+url_code: 'https://github.com/SusimRoy/TAIGen'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: 'https://docs.google.com/presentation/d/1LMW1V5vwbR9ixUdmVMMolAxUJ7xAYPVVGJGF2Xmb0Nc/edit?usp=sharing'
+# url_poster: 'https://docs.google.com/presentation/d/1pOFGNx_oPBpEVAse6PstWjDb3vOCitlG3lD0cOpUO14/edit?usp=sharing'
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1tjDkIvcwm7S0eS7vDD9Aoq2pFbcayKJbj_EXOXG3_6Q/edit?usp=sharing'
+# url_slides: 'https://docs.google.com/presentation/d/1hXfuwqmE1WiB-SW3Gxw1UXfzuJ73GsUHZgV701n1JyY/edit?usp=sharing'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
