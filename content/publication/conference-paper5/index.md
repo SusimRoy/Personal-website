@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of IEEE/CVF International Conference on Computer Vision, Workshop on Biometrics, Identity and Behaviour Science(ICCVw'25)(Oral)*
-summary: ICCVw'2025
+summary: ICCVw'2025(Oral)
 
 abstract: Adversarial perturbations generated using GANs or diffusion models often suffer from issues such as poor quality, long generation runtime, and high computational costs. Additionally, diffusion models are known to have been trained on large sets of training data, which makes it hard to control the generated data. Thus, we explore the plethora of feature variations in the diffusion model backbone to select the right properties for unintended perturbations. To this end, we propose TAIGen, a novel black-box, training-free adversarial attack method. TAIGen utilizes unconditional diffusion models to generate perturbations efficiently in just a few sampling steps. Our approach introduces a selective channel-based mechanism that integrates attention maps and GradCAM that are both robust and imperceptible. These perturbations are also transferable to unseen classifiers, increasing their overall impact. The effectiveness of TAIGen is validated across the ImageNet, CIFAR-10, and CelebA-HQ datasets. In the challenging black-box setting on ImageNet using VGGNet as the source model, TAIGen achieves attack success rates of 70.6% on ResNet, 80.8% on MNASNet, and 97.81% on ShuffleNet.
 
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'conference-paper5'
+url_pdf: 'https://arxiv.org/pdf/2508.15020'
 url_code: 'https://github.com/SusimRoy/TAIGen'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'https://docs.google.com/presentation/d/1pOFGNx_oPBpEVAse6PstWjDb3vOCitlG3lD0cOpUO14/edit?usp=sharing'
