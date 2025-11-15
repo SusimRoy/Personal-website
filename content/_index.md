@@ -143,13 +143,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: 'https://drive.google.com/file/d/1d25-E2nxqC_j9PQwU7Lj3FpsyY0Z1HFt/view?usp=sharing'
           date_end: '2023-08-10'
           date_start: '2023-05-18'
-          description: 'Awarded the MITACS scholarship for onsite research internship at University of Alberta'
+          description: 'Awarded the MITACS scholarship for onsite AI research internship at University of Alberta'
           organization: MITACS
           organization_url: https://www.mitacs.ca/en
-          title: AI Research Internship
+          title: MITACS Research Internship
           url: ''
         - certificate_url: 'https://drive.google.com/file/d/1dAeIuQL3sbOHJqfjw2owfJkRLsG4URiw/view?usp=sharing'
           date_start: '2024-09-18'
@@ -157,6 +157,13 @@ sections:
           organization: IEEE Biometrics Council
           organization_url: https://ieee-biometrics.org/
           title: DEI Travel Grant
+          url: ''
+        - certificate_url: ''
+          date_start: '2025-10-19'
+          description: 'Received the Broadening Participation Award for 2025 IEEE/CVF International Conference on Computer Vision'
+          organization: IEEE/CVF BP Council
+          organization_url: https://iccv.thecvf.com/Conferences/2025/BroadeningParticipation
+          title: ICCV BP Award
           url: ''
         - certificate_url: 'https://drive.google.com/file/d/1DSvsOHlKEeNs0emWGWcgJZkDC_R0jCJ_/view?usp=sharing'
           date_start: '2024-11-08'

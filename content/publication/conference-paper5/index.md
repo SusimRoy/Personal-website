@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-07-14'
+date: '2025-10-20'
 # doi: '10.1109/AVSS61716.2024.10672595'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,12 +46,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2508.15020'
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2025W/CV4BIOM/papers/Roy_TAIGen_Training-Free_Adversarial_Image_Generation_via_Diffusion_Models_ICCVW_2025_paper.pdf'
 url_code: 'https://github.com/SusimRoy/TAIGen'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'https://docs.google.com/presentation/d/1pOFGNx_oPBpEVAse6PstWjDb3vOCitlG3lD0cOpUO14/edit?usp=sharing'
 # url_project: ''
-# url_slides: 'https://docs.google.com/presentation/d/1hXfuwqmE1WiB-SW3Gxw1UXfzuJ73GsUHZgV701n1JyY/edit?usp=sharing'
+url_slides: 'https://docs.google.com/presentation/d/1xgge6vqx1eXTzbA1jO6wTN5C-x9ajnW2z-KI366UVoY/edit?usp=sharing'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 

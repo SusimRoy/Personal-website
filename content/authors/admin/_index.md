@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Susim.pdf
+    link: uploads/CV_Research.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,5 +81,5 @@ email: ''
 highlight_name: false
 ---
 
-I am a Master of Science student in the Department of Computer Science at the University of Buffalo. My current research focuses on increasing the trustability and precision of multimodal generative models at the Trusted AI Lab under the supervision of [Prof. Nalini Ratha](https://nalini-ratha.github.io/). Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science where I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
+I am a Master of Science student in the Department of Computer Science at the University of Buffalo. My current research focuses on improving the spatial reasoning capabilities of multimodal generative models at the Trusted AI Lab under the supervision of [Prof. Nalini Ratha](https://nalini-ratha.github.io/). Previously, I was an Undergraduate at [IIT Jodhpur](iitj.ac.in) in the Department of Computer Science where I have worked on adversarial learning and leveraging foundation models for biometric applications at the [Image Analysis and Biometrics Lab](https://iab-rubric.org/people/undergrads) advised by [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
 {style="text-align: justify;"}
